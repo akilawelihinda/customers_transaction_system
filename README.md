@@ -11,14 +11,14 @@ that allow you to update customer information, view overdue transactions, and ch
 
 Guide:
 
-Add Customer
+Add Customer:
 To add a customer, click on the "Add Customer" button in the menu. If you try to add a customer that has the same 
 ID number as a currently registered customer, you will get an error. You must fill all the boxes otherwise you cannot
 add the customer. Make sure to enter the customer ID EXACTLY as it appears on the ID card.
 
 
 
-View Customer
+View Customer:
 To view a customer, you must click on the "View Customer" button in the menu. Then you must enter the ID number of 
 the customer you want to view. If you try to view a customer by entering an ID number that is not currently registered,
 you will get an error. When you enter the customer's ID number, you can view his or her name, phone number, address, 
@@ -27,7 +27,7 @@ the past.
 
 
 
-Update Customer
+Update Customer:
 To update a customer, you must click on the "Update Customer" button in the menu. Then you must enter the ID 
 number of the customer you want to update. If you try to update a customer by entering an ID number that is not 
 currently registered, you will get an error. Once you click 'Submit', then you will see the customer's current 
@@ -36,7 +36,7 @@ then be saved.
 
 
 
-Add Transaction
+Add Transaction:
 To add a transaction to a customer's account, you must click on the "Add Transaction" button in the menu. 
 Then you must enter the ID number of the customer you want to enter the transaction for. You may not enter 
 a transaction for a customer who currently is unregistered, on the block list, or has a overdue unpaid transaction.
@@ -47,7 +47,7 @@ entering in the customer's ID number.
 
 
 
-Record Payments
+Record Payments:
 When a customer pays you back to settle a debt from a transaction, then you can record this payment by clicking
 on the "Record Payments" button. You must first enter the ID number of the customer who is paying. Then you will 
 see all of the customer's unpaid transactions. You may select which of the transactions the customer is paying for
@@ -60,7 +60,7 @@ collecting again as soon as the new transaction is created.
 
 
 
-Add to Block List
+Add to Block List:
 You may add any customer to the block list for any reason. You may not add an unregistered customer to the block list.
 You simply go the menu and click on "Add to Block List". Then you must enter the ID number of the customer you wish to
 add on the block list and click 'Submit'. Then you must enter the reason why the customer is on the block list and then
@@ -69,14 +69,14 @@ list.
 
 
 
-View Block List
+View Block List:
 You may view the block list to see which customers are currently on the block list. Go to the menu and click
 "View Block List". Then you will see the list of each customer's ID and reason why he/she was added onto the 
 block list.
 
 
 
-Remove From Block List
+Remove From Block List:
 You may remove a customer from the block list in order to allow them to make transactions again. You may not
 remove a customer from the block list that is not already in the block list. To remove a customer from the block
 list, go to the menu and click "Remove From Block List". Then enter the ID of the customer that you want to remove
@@ -85,7 +85,7 @@ future transactions.
 
 
 
-View Overdue Transactions
+View Overdue Transactions:
 You may view the unpaid transactions that have passed their deadline. Any customer on this list will not be able
 to make transactions because he/she has a overdue, unpaid transaction. Simply click "View Overdue Transactions" in
 the menu and you will see a list of transactions that haven't been paid and have passed their dealine. Once the
@@ -93,7 +93,7 @@ transaction is paid by recording the payment, then the transaction will automati
 
 
 
-Change Interest Rates
+Change Interest Rates:
 You may change the interest rates by clicking on "Change Interest Rates" in the menu. Then you will see the current
 interest rates and you may change any of them. Please enter the interest rate in percentage(not decimal) otherwise 
 you will get errors. In order to save these changes, click 'Submit'. Now the interest rates you have just entered will
